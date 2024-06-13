@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Edit in NPC", "release_date":{"day":17,"month":2,"year":2023}}
+{"version":"1.0.0", "notes":"Edit in NPC", "release_date":{"day":17,"month":2,"year":2023}}
