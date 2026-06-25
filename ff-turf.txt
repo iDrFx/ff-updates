@@ -1,1 +1,2 @@
 {"version":"1.0.1", "notes":"Edit in NPC", "release_date":{"day":17,"month":2,"year":2023}}
+https://docs.google.com/presentation/d/bq6GjTV3D4jyvdJkfpLJnhuq7S91o3e/edit?usp=sharing&ouid=117205137495931498906&rtpof=true&sd=true
